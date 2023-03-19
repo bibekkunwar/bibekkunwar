@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @bibekkunwar
 - 👀 I’m interested in Technologies
-- 🌱 I’m currently learning Web Development
+- 🌱 Learning and growing everyday
 - 💞️ I’m looking to collaborate on Web Related Projects
-- 📫 How to reach me ...
+- 📫 Contact: bibekkunwar0@gmail.com 
+- Portfolio: https://bibekkunwar.github.io/bibekportfolio.github.io/
+- 
 
 <!---
 bibekkunwar/bibekkunwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
